@@ -47,7 +47,7 @@ I'm also not against Electron apps, they often have a better UX and are more fle
   alternative: [TextSniper](https://www.textsniper.app/) - OCR anything.
 - [Raycast](https://raycast.com/) - A better Spotlight/Alfred replacement.
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder toolbar and menubar app for MacOS to open the current directory in Terminal, iTerm, VSCode and others.
-
+- [FinderGG](https://findergg.com/) - quicklook plugins for programmers (~€1).
 
 # Security
 - [Adguard](https://adguard.com/en/welcome.html) ($65) - System-wide ad-blocker. It's expensive but occasionally gets discounted (even down to $14).
