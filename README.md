@@ -6,7 +6,8 @@ Quoting from the original repo (as it fits me perfectly):
 > I am a mac app enthusiast who really enjoys trying new apps to see what best fits into my workflow. This originally started as, and still remains a reference for me when I setup a new computer, but I hope this helps others find what they need without having to  try everything. For the apps listed below, I was not compensated in any way. These are just the apps I use on a daily basis or use to use in the past. I try to prefer free solutions but occassionally I end up coming across a nice deal for a paid app which I can purchase at a price that is affordable. I try to avoid subscriptions unless I absolutely have to. I think the most expensive app I have purchased is Alfred.
 
 Conversely from the original, I don't use any icons to demarkate free, paid or subscriptions.
-I don't use subscription-based software (except at work, where it's provided by my employer).<br>
+I don't use subscription-based software (except at work, where it's provided by my employer).
+The only exception is Bear app, because of it superior qualities and acceptable price ($15/year).<br>
 All of the apps mentioned here are free and Open Source apps, unless explicitly stated.
 I'm not against using paid apps, they are usually better, however I'm against paying too much for apps.
 I'm also not against Electron apps, they often have a better UX and are more flexible than their native counterparts. Their alleged slownes or resource hunger is of no concern on a half-decent machine.
@@ -40,14 +41,16 @@ I'm also not against Electron apps, they often have a better UX and are more fle
 
 
 # Productivity & automation
-- [FiScript](https://github.com/Mortennn/FiScript) - add options to context menu.
-- [ControlPlane](https://github.com/dustinrue/ControlPlane) - context automation (amazing!).
 - [aText](https://www.trankynam.com/atext/) - text expander (Paid: $4.99).
+- [Bear](https://bear.app/) - Best note taking app in the world (Paid: $15/year).
+- [ControlPlane](https://github.com/dustinrue/ControlPlane) - context automation (amazing!).
+- [FinderGG](https://findergg.com/) - quicklook plugins for programmers (~€1).
+- [FiScript](https://github.com/Mortennn/FiScript) - add options to context menu.
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder toolbar and menubar app for MacOS to open the current directory in Terminal, iTerm, VSCode and others.
 - [OwlOCR](https://owlocr.com/) - OCR anything (Core version is free, Pro costs $8.99).
   alternative: [TextSniper](https://www.textsniper.app/) - OCR anything.
 - [Raycast](https://raycast.com/) - A better Spotlight/Alfred replacement.
-- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder toolbar and menubar app for MacOS to open the current directory in Terminal, iTerm, VSCode and others.
-- [FinderGG](https://findergg.com/) - quicklook plugins for programmers (~€1).
+- [Things3](https://culturedcode.com/things/) - Best task manager in the world ($50 for Mac + $10 for iPhone).
 
 # Security
 - [Adguard](https://adguard.com/en/welcome.html) ($65) - System-wide ad-blocker. It's expensive but occasionally gets discounted (even down to $14).
